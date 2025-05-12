@@ -9,3 +9,21 @@
 [01:05:20] [Server thread/INFO]: [El_Andrew22: Gave 64 [White Wool] to El_Andrew22]
 [01:06:57] [Server thread/INFO]: [El_Andrew22: Gave 64 [Painting] to El_Andrew22]
 [01:14:47] [Server thread/INFO]: minecraft:bat
+[01:19:31] [Server thread/INFO]: minecraft:bat
+[01:20:09] [Server thread/INFO]: [El_Andrew22: Gave 64 [Bookshelf] to El_Andrew22]
+[01:27:49] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-420, y=61, z=-353}) doesn't have enough leaves around top most log
+[01:27:50] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-420, y=62, z=-353}) doesn't have enough leaves around top most log
+[01:27:50] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-420, y=63, z=-353}) doesn't have enough leaves around top most log
+[01:27:51] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-420, y=64, z=-353}) doesn't have enough leaves around top most log
+[01:27:52] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-420, y=61, z=-348}) doesn't have enough leaves around top most log
+[01:27:52] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-420, y=62, z=-348}) doesn't have enough leaves around top most log
+[01:27:53] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-420, y=63, z=-348}) doesn't have enough leaves around top most log
+[01:27:53] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-420, y=64, z=-348}) doesn't have enough leaves around top most log
+[01:28:04] [Server thread/INFO]: minecraft:slime
+[01:28:05] [Server thread/INFO]: minecraft:slime
+[01:32:11] [Server thread/INFO]: minecraft:slime
+[01:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2358ms or 47 ticks behind
+[01:33:47] [Server thread/INFO]: [El_Andrew22: Gave 1 [Sunflower] to El_Andrew22]
+[01:34:06] [Server thread/INFO]: [El_Andrew22: Gave 1 [Cactus] to El_Andrew22]
+[01:34:12] [Server thread/INFO]: [El_Andrew22: Gave 1 [Azure Bluet] to El_Andrew22]
+[01:34:20] [Server thread/INFO]: [El_Andrew22: Gave 1 [Mangrove Propagule] to El_Andrew22]

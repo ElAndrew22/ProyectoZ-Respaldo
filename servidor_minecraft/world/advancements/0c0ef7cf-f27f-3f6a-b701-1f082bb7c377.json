@@ -6888,5 +6888,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-12 01:34:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
