@@ -3026,6 +3026,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2025-05-12 03:08:03 +0000",
       "minecraft:wolf": "2025-05-05 01:04:25 +0000"
     },
     "done": false

@@ -6900,5 +6900,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:ragdoll": "2025-05-12 03:04:29 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3955
 }
