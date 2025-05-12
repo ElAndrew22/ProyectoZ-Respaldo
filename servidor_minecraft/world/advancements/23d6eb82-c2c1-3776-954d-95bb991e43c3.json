@@ -127,6 +127,7 @@
       "minecraft:old_growth_pine_taiga": "2025-05-04 03:23:12 +0000",
       "minecraft:dark_forest": "2025-05-04 23:15:05 +0000",
       "minecraft:forest": "2025-05-04 02:18:24 +0000",
+      "minecraft:mangrove_swamp": "2025-05-12 03:48:41 +0000",
       "minecraft:sparse_jungle": "2025-05-07 02:22:52 +0000",
       "minecraft:river": "2025-05-04 02:18:35 +0000",
       "minecraft:snowy_plains": "2025-05-05 00:29:17 +0000",
@@ -4589,6 +4590,36 @@
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-05-10 03:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-12 03:53:03 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-05-12 03:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-12 03:53:03 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-05-12 03:53:03 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-05-12 03:53:03 +0000"
     },
     "done": true
   },
