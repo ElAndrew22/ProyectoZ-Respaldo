@@ -30,3 +30,25 @@
 [01:46:20] [Server thread/INFO]: [El_Andrew22: Gave 1 [Cake] to El_Andrew22]
 [01:46:28] [Server thread/INFO]: [El_Andrew22: Gave 1 [Flint and Steel] to El_Andrew22]
 [01:46:49] [Server thread/INFO]: [El_Andrew22: Gave 1 [Cake] to El_Andrew22]
+[01:48:38] [Server thread/INFO]: [El_Andrew22: Gave 1 [Cake] to El_Andrew22]
+[01:54:49] [Server thread/INFO]: [El_Andrew22: Gave 64 [Paper] to El_Andrew22]
+[02:02:19] [Server thread/INFO]: [El_Andrew22: Gave 1 [Flint and Steel] to El_Andrew22]
+[02:02:50] [Server thread/INFO]: [El_Andrew22: Gave 64 [Jack o'Lantern] to El_Andrew22]
+[02:05:46] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[02:05:46] [Server thread/INFO]: El_Andrew22 left the game
+[02:06:09] [Server thread/INFO]: Stopping the server
+[02:06:10] [Server thread/INFO]: Stopping server
+[02:06:10] [Server thread/INFO]: Saving players
+[02:06:10] [Server thread/INFO]: Saving worlds
+[02:06:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:06:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:06:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:06:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02:06:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[02:06:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:06:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:06:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:06:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02:06:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[02:06:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:06:10] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
