@@ -710,3 +710,15 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:42:52] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
 [02:44:04] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
 [02:44:46] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[02:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[02:47:26] [Server thread/INFO]: minecraft:bat
+[02:47:33] [Server thread/WARN]: Akalixy moved too quickly! -9.84402001178023,0.0,-2.462094524986014
+[02:48:45] [Server thread/INFO]: Akalixy lost connection: Timed out
+[02:48:45] [Server thread/INFO]: Akalixy left the game
+[02:48:46] [Server thread/WARN]: handleDisconnection() called twice
+[02:48:53] [Server thread/INFO]: Akalixy[/100.120.240.91:51146] logged in with entity id 13746 at (-2001.0123320989242, 61.0, 1216.465038734957)
+[02:48:53] [Server thread/INFO]: Reading config values from file.
+[02:48:53] [Server thread/INFO]: Akalixy joined the game
+[02:48:53] [Server thread/INFO]: Sending item configs to client
+[02:49:37] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:51:15] [Server thread/INFO]: minecraft:guardian

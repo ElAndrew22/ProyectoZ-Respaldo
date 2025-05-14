@@ -1785,6 +1785,7 @@
       "minecraft:hoglin": "2025-05-10 02:51:39 +0000",
       "minecraft:cave_spider": "2025-05-05 01:09:58 +0000",
       "minecraft:piglin": "2025-05-09 03:29:58 +0000",
+      "minecraft:guardian": "2025-05-14 02:50:59 +0000",
       "minecraft:silverfish": "2025-05-08 01:49:58 +0000",
       "minecraft:magma_cube": "2025-05-09 03:32:25 +0000",
       "minecraft:spider": "2025-05-04 04:10:46 +0000",
@@ -4672,6 +4673,48 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-05-14 02:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-14 02:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-14 02:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-14 02:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 02:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 02:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-14 02:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-14 02:51:18 +0000"
     },
     "done": true
   },

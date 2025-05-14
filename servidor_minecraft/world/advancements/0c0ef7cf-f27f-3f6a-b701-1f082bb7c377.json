@@ -2597,6 +2597,7 @@
       "minecraft:pillager": "2025-05-04 03:29:36 +0000",
       "minecraft:blaze": "2025-05-09 01:29:48 +0000",
       "minecraft:skeleton": "2025-05-04 04:09:54 +0000",
+      "minecraft:elder_guardian": "2025-05-14 02:50:26 +0000",
       "minecraft:zombified_piglin": "2025-05-08 00:18:24 +0000",
       "minecraft:wither_skeleton": "2025-05-05 01:52:40 +0000",
       "minecraft:husk": "2025-05-05 01:26:34 +0000",
@@ -6934,9 +6935,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-14 02:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-14 02:50:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-05-14 02:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-05-14 02:50:26 +0000"
     },
     "done": true
   },
@@ -6949,6 +6968,18 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-05-14 02:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-14 02:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-14 02:50:26 +0000"
     },
     "done": true
   },
