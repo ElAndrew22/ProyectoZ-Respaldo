@@ -678,3 +678,7 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:08:41] [Server thread/INFO]: Sending item configs to client
 [02:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
 [02:09:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
+[02:22:52] [Server thread/INFO]: El_Andrew22[/100.99.232.91:49408] logged in with entity id 2918 at (-437.8820896314122, 72.0, -350.04330203961325)
+[02:22:52] [Server thread/INFO]: Reading config values from file.
+[02:22:52] [Server thread/INFO]: El_Andrew22 joined the game
+[02:22:53] [Server thread/INFO]: Sending item configs to client
