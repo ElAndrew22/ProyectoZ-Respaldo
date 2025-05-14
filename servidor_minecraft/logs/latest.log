@@ -722,3 +722,5 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:48:53] [Server thread/INFO]: Sending item configs to client
 [02:49:37] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
 [02:51:15] [Server thread/INFO]: minecraft:guardian
+[02:58:10] [Server thread/INFO]: minecraft:guardian
+[03:02:49] [Server thread/WARN]: Couldn't smelt 1 minecraft:pufferfish because there is no smelting recipe
