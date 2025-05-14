@@ -736,3 +736,24 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [03:29:19] [Server thread/INFO]: minecraft:zombie
 [03:44:50] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
 [03:44:53] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:47:58] [Server thread/INFO]: El_Andrew22 has made the advancement [A Throwaway Joke]
+[03:50:57] [Server thread/INFO]: Akalixy lost connection: Disconnected
+[03:50:57] [Server thread/INFO]: Akalixy left the game
+[03:51:33] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[03:51:33] [Server thread/INFO]: El_Andrew22 left the game
+[03:51:43] [Server thread/INFO]: Stopping the server
+[03:51:43] [Server thread/INFO]: Stopping server
+[03:51:43] [Server thread/INFO]: Saving players
+[03:51:43] [Server thread/INFO]: Saving worlds
+[03:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[03:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[03:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[03:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[03:51:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:51:44] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
