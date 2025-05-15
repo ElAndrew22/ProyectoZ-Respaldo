@@ -136,6 +136,7 @@
       "minecraft:lush_caves": "2025-05-04 02:44:37 +0000",
       "minecraft:deep_cold_ocean": "2025-05-14 03:41:26 +0000",
       "minecraft:frozen_ocean": "2025-05-15 00:54:35 +0000",
+      "minecraft:frozen_river": "2025-05-15 01:23:40 +0000",
       "minecraft:windswept_forest": "2025-05-12 03:25:32 +0000",
       "minecraft:ocean": "2025-05-06 03:37:07 +0000",
       "minecraft:jungle": "2025-05-08 01:12:57 +0000",
@@ -150,6 +151,7 @@
       "minecraft:stony_shore": "2025-05-04 23:58:09 +0000",
       "minecraft:snowy_plains": "2025-05-04 23:57:46 +0000",
       "minecraft:dripstone_caves": "2025-05-08 01:13:56 +0000",
+      "minecraft:snowy_taiga": "2025-05-15 01:29:37 +0000",
       "minecraft:frozen_peaks": "2025-05-05 00:38:29 +0000",
       "minecraft:deep_dark": "2025-05-04 04:28:51 +0000",
       "minecraft:swamp": "2025-05-05 00:35:15 +0000",
@@ -190,6 +192,7 @@
       "golden_apple": "2025-05-07 03:06:16 +0000",
       "cooked_chicken": "2025-05-04 04:32:00 +0000",
       "enchanted_golden_apple": "2025-05-09 02:41:43 +0000",
+      "cooked_cod": "2025-05-15 01:28:58 +0000",
       "cooked_beef": "2025-05-05 01:06:09 +0000",
       "baked_potato": "2025-05-04 04:19:53 +0000",
       "pumpkin_pie": "2025-05-04 04:39:34 +0000",
@@ -6909,7 +6912,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:ragdoll": "2025-05-12 03:04:29 +0000"
+      "minecraft:ragdoll": "2025-05-12 03:04:29 +0000",
+      "minecraft:british_shorthair": "2025-05-15 01:37:36 +0000"
     },
     "done": false
   },
@@ -7084,6 +7088,36 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-05-14 03:47:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-05-15 01:37:36 +0000"
+    },
+    "done": false
+  },
+  "mcwwindows:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-05-15 01:27:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-05-15 01:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-05-15 01:27:45 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/mangrove": {
+    "criteria": {
+      "has_wood": "2025-05-15 01:27:45 +0000"
     },
     "done": true
   },
