@@ -7093,6 +7093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-15 02:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2025-05-15 01:44:25 +0000"
@@ -7159,6 +7165,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-05-15 01:58:44 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/mangrove": {
     "criteria": {
       "has_wood": "2025-05-15 01:27:45 +0000"
@@ -7180,6 +7192,12 @@
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-05-15 01:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-15 02:00:05 +0000"
     },
     "done": true
   },
