@@ -746,3 +746,150 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [01:10:33] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
 [01:10:33] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
 [01:10:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[01:11:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[01:11:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7456ms or 149 ticks behind
+[01:15:15] [Server thread/INFO]: minecraft:bat
+[01:16:51] [Server thread/INFO]: minecraft:glow_squid
+[01:16:57] [Server thread/INFO]: minecraft:glow_squid
+[01:18:14] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:14] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:15] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:16] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:16] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:16] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:16] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:16] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:16] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:16] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:16] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:16] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:16] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:17] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:17] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:17] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:17] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:17] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:17] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:17] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:17] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:18] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:18] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:18] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:18] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:18] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:18] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:18] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:19] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:19] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:19] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:19] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:20] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:20] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:20] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:20] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:20] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:20] [Worker-Main-4/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[01:19:01] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[01:19:01] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[01:19:01] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[01:19:01] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[01:19:02] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[01:19:02] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[01:19:02] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[01:19:02] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[01:19:02] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[01:19:04] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[01:19:10] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:00] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:01] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:02] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:03] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:03] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:03] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:03] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock

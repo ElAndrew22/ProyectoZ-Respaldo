@@ -156,10 +156,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-05-15 01:07:16 +0000",
       "log_spam_fixer": "2025-05-04 02:18:08 +0000"
     },
-    "done": true
+    "done": false
   },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
