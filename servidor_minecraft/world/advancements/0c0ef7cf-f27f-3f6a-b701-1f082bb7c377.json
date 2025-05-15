@@ -2611,6 +2611,7 @@
       "minecraft:cave_spider": "2025-05-05 01:10:10 +0000",
       "minecraft:piglin": "2025-05-08 03:34:42 +0000",
       "minecraft:guardian": "2025-05-14 02:41:46 +0000",
+      "minecraft:vindicator": "2025-05-15 01:40:57 +0000",
       "minecraft:silverfish": "2025-05-08 01:12:18 +0000",
       "minecraft:enderman": "2025-05-10 03:37:01 +0000",
       "minecraft:magma_cube": "2025-05-06 02:56:19 +0000",
@@ -6912,6 +6913,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:siamese": "2025-05-15 01:38:34 +0000",
       "minecraft:ragdoll": "2025-05-12 03:04:29 +0000",
       "minecraft:british_shorthair": "2025-05-15 01:37:36 +0000"
     },
@@ -7091,15 +7093,69 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
-      "requirement": "2025-05-15 01:37:36 +0000"
+      "has_purple_dye": "2025-05-15 01:44:25 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-05-15 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-05-15 01:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-15 01:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-15 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-15 01:44:25 +0000"
+    },
+    "done": true
   },
   "mcwwindows:recipes/mangrove": {
     "criteria": {
       "has_wood": "2025-05-15 01:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-15 01:42:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 01:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-15 01:44:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-05-15 01:40:41 +0000"
     },
     "done": true
   },
@@ -7112,6 +7168,18 @@
   "minecraft:recipes/building_blocks/mangrove_wood": {
     "criteria": {
       "has_log": "2025-05-15 01:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-15 01:42:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-05-15 01:41:58 +0000"
     },
     "done": true
   },
