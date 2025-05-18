@@ -822,3 +822,25 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [04:08:55] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/26838, l='ServerLevel[world]', x=-807.30, y=239.01, z=-3202.70] died: Dinnerbone was shot by El_Andrew22
 [04:09:05] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/26832, l='ServerLevel[world]', x=-814.26, y=239.01, z=-3198.76] died: Dinnerbone was burned to a crisp while fighting El_Andrew22
 [04:09:52] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[04:15:34] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/26983, l='ServerLevel[world]', x=-783.30, y=247.01, z=-3167.59] died: Dinnerbone was shot by El_Andrew22
+[04:16:43] [Server thread/INFO]: [El_Andrew22: Gave 1 [Flint and Steel] to El_Andrew22]
+[04:16:52] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[04:16:52] [Server thread/INFO]: El_Andrew22 left the game
+[04:16:56] [Server thread/INFO]: Akalixy lost connection: Disconnected
+[04:16:56] [Server thread/INFO]: Akalixy left the game
+[04:17:05] [Server thread/INFO]: Stopping the server
+[04:17:05] [Server thread/INFO]: Stopping server
+[04:17:05] [Server thread/INFO]: Saving players
+[04:17:05] [Server thread/INFO]: Saving worlds
+[04:17:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:17:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[04:17:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[04:17:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:17:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[04:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:17:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:17:05] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
