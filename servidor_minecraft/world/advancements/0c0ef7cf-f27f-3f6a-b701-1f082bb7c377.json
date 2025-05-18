@@ -7313,6 +7313,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-05-18 02:45:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wolf_armor": {
     "criteria": {
       "has_armadillo_scute": "2025-05-18 02:21:21 +0000"
