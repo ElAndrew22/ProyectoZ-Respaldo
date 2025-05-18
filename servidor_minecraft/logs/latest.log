@@ -807,3 +807,12 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [03:49:36] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/24731, l='ServerLevel[world]', x=-819.70, y=223.01, z=-3202.70] died: Dinnerbone was shot by El_Andrew22
 [03:49:51] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/24801, l='ServerLevel[world]', x=-819.70, y=223.01, z=-3192.30] died: Dinnerbone was shot by El_Andrew22
 [03:49:56] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/24777, l='ServerLevel[world]', x=-819.70, y=223.01, z=-3202.70] died: Dinnerbone was burned to a crisp while fighting El_Andrew22
+[03:51:24] [Server thread/INFO]: minecraft:cave_spider
+[03:51:26] [Server thread/INFO]: minecraft:cave_spider
+[03:51:34] [Server thread/INFO]: minecraft:cave_spider
+[03:56:02] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/25478, l='ServerLevel[world]', x=-783.30, y=231.01, z=-3168.30] died: Dinnerbone was shot by El_Andrew22
+[03:56:23] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/25529, l='ServerLevel[world]', x=-783.30, y=231.01, z=-3171.86] died: Dinnerbone was shot by El_Andrew22
+[03:56:29] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/25477, l='ServerLevel[world]', x=-784.30, y=231.01, z=-3167.30] died: Dinnerbone was shot by El_Andrew22
+[03:56:52] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/25570, l='ServerLevel[world]', x=-790.39, y=231.01, z=-3173.27] died: Dinnerbone was shot by El_Andrew22
+[03:58:01] [Server thread/INFO]: minecraft:cave_spider
+[03:59:00] [Server thread/INFO]: minecraft:cave_spider
