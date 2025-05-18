@@ -764,3 +764,15 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [03:07:04] [Server thread/INFO]: minecraft:wither_skeleton
 [03:07:54] [Server thread/INFO]: minecraft:wither_skeleton
 [03:09:02] [Server thread/INFO]: minecraft:cave_spider
+[03:11:53] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/19547, l='ServerLevel[world]', x=-801.86, y=191.01, z=-3186.09] died: Dinnerbone was burned to a crisp while fighting El_Andrew22
+[03:11:53] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/19537, l='ServerLevel[world]', x=-804.14, y=191.01, z=-3185.78] died: Dinnerbone was shot by El_Andrew22
+[03:12:08] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/19554, l='ServerLevel[world]', x=-800.46, y=191.01, z=-3187.72] died: Dinnerbone was burned to a crisp while fighting El_Andrew22
+[03:12:31] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/19623, l='ServerLevel[world]', x=-801.21, y=191.01, z=-3188.17] died: Dinnerbone was slain by El_Andrew22
+[03:12:51] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/19629, l='ServerLevel[world]', x=-796.61, y=191.01, z=-3183.43] died: Dinnerbone withered away while fighting El_Andrew22
+[03:13:23] [Server thread/INFO]: minecraft:cave_spider
+[03:13:32] [Server thread/INFO]: minecraft:cave_spider
+[03:17:19] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20365, l='ServerLevel[world]', x=-783.30, y=199.01, z=-3169.17] died: Dinnerbone was shot by El_Andrew22
+[03:17:39] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20360, l='ServerLevel[world]', x=-783.30, y=199.01, z=-3176.70] died: Dinnerbone was burned to a crisp while fighting El_Andrew22
+[03:17:53] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20516, l='ServerLevel[world]', x=-784.30, y=192.01, z=-3168.30] died: Dinnerbone was shot by El_Andrew22
+[03:18:07] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20548, l='ServerLevel[world]', x=-783.30, y=199.01, z=-3171.94] died: Dinnerbone was burned to a crisp while fighting El_Andrew22
+[03:19:11] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/20375, l='ServerLevel[world]', x=-787.05, y=199.01, z=-3170.65] died: Dinnerbone was shot by El_Andrew22
