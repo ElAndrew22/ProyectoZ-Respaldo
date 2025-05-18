@@ -5062,5 +5062,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-05-18 02:35:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
