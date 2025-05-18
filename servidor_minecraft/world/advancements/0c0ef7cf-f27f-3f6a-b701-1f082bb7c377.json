@@ -7319,6 +7319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-05-18 02:52:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wolf_armor": {
     "criteria": {
       "has_armadillo_scute": "2025-05-18 02:21:21 +0000"
