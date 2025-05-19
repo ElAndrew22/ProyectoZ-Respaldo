@@ -689,3 +689,5 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:05:29] [Server thread/INFO]: [El_Andrew22: Gave 64 [Torch] to El_Andrew22]
 [02:06:00] [Server thread/WARN]: Tried to over-fill a container
 [02:10:38] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[02:21:15] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-434, y=65, z=-321}) doesn't have enough leaves around top most log
+[02:27:04] [Server thread/INFO]: [El_Andrew22: Gave 64 [Bricks] to El_Andrew22]
