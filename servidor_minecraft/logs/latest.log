@@ -688,3 +688,4 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:03:20] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/259, l='ServerLevel[world]', x=-792.79, y=247.01, z=-3182.30] died: Dinnerbone was shot by El_Andrew22
 [02:05:29] [Server thread/INFO]: [El_Andrew22: Gave 64 [Torch] to El_Andrew22]
 [02:06:00] [Server thread/WARN]: Tried to over-fill a container
+[02:10:38] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld

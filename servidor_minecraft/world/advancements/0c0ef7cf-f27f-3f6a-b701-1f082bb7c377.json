@@ -7349,5 +7349,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-05-19 02:10:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
