@@ -187,16 +187,18 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-08 03:28:52 +0000",
-      "apple": "2025-05-07 01:48:31 +0000",
       "bread": "2025-05-03 06:33:26 +0000",
       "golden_apple": "2025-05-07 03:06:16 +0000",
+      "cooked_mutton": "2025-05-19 03:59:54 +0000",
+      "sweet_berries": "2025-05-19 03:59:49 +0000",
+      "cooked_beef": "2025-05-05 01:06:09 +0000",
+      "baked_potato": "2025-05-04 04:19:53 +0000",
+      "tropical_fish": "2025-05-07 02:39:14 +0000",
+      "apple": "2025-05-07 01:48:31 +0000",
       "cooked_chicken": "2025-05-04 04:32:00 +0000",
       "enchanted_golden_apple": "2025-05-09 02:41:43 +0000",
       "cooked_cod": "2025-05-15 01:28:58 +0000",
-      "cooked_beef": "2025-05-05 01:06:09 +0000",
-      "baked_potato": "2025-05-04 04:19:53 +0000",
-      "pumpkin_pie": "2025-05-04 04:39:34 +0000",
-      "tropical_fish": "2025-05-07 02:39:14 +0000"
+      "pumpkin_pie": "2025-05-04 04:39:34 +0000"
     },
     "done": false
   },
@@ -7348,6 +7350,78 @@
       "has_redstone_torch": "2025-05-18 04:01:44 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-19 04:03:06 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {

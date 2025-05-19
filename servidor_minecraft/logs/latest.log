@@ -850,3 +850,49 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [03:45:14] [Server thread/INFO]: [El_Andrew22: Gave 1 [Dark Oak Drawer] to El_Andrew22]
 [03:45:18] [Server thread/INFO]: [El_Andrew22: Gave 1 [Dark Oak Cupboard] to El_Andrew22]
 [03:45:35] [Server thread/INFO]: [El_Andrew22: Gave 1 [Dark Oak Cupboard] to El_Andrew22]
+[03:50:37] [Server thread/INFO]: [El_Andrew22: Gave 1 [White Stained Glass Pane] to El_Andrew22]
+[03:50:37] [Server thread/INFO]: [El_Andrew22: Gave 1 [White Stained Glass Pane] to El_Andrew22]
+[03:50:37] [Server thread/INFO]: [El_Andrew22: Gave 1 [White Stained Glass Pane] to El_Andrew22]
+[03:50:37] [Server thread/INFO]: [El_Andrew22: Gave 1 [White Stained Glass Pane] to El_Andrew22]
+[03:50:37] [Server thread/INFO]: [El_Andrew22: Gave 1 [White Stained Glass Pane] to El_Andrew22]
+[03:52:31] [Server thread/INFO]: [El_Andrew22: Gave 1 [Chain] to El_Andrew22]
+[03:52:31] [Server thread/INFO]: [El_Andrew22: Gave 1 [Chain] to El_Andrew22]
+[03:52:31] [Server thread/INFO]: [El_Andrew22: Gave 1 [Chain] to El_Andrew22]
+[03:53:20] [Server thread/INFO]: [El_Andrew22: Gave 1 [Flower Pot] to El_Andrew22]
+[03:53:31] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lily of the Valley] to El_Andrew22]
+[03:54:09] [Server thread/INFO]: [El_Andrew22: Gave 1 [Dark Oak Glass Door] to El_Andrew22]
+[03:55:06] [Server thread/INFO]: [El_Andrew22: Gave 1 [Flower Pot] to El_Andrew22]
+[03:55:21] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[03:55:35] [Server thread/INFO]: [El_Andrew22: Gave 1 [Oxeye Daisy] to El_Andrew22]
+[03:57:23] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[03:57:23] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[03:57:47] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[03:57:47] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[03:57:47] [Server thread/INFO]: [El_Andrew22: Gave 1 [Lantern] to El_Andrew22]
+[03:57:55] [Server thread/INFO]: [El_Andrew22: Gave 1 [Cyan Canvas Sign] to El_Andrew22]
+[03:58:05] [Server thread/INFO]: [El_Andrew22: Gave 1 [Spruce Stairs] to El_Andrew22]
+[03:58:23] [Server thread/INFO]: [El_Andrew22: Gave 1 [Grass Block] to El_Andrew22]
+[03:58:32] [Server thread/INFO]: [El_Andrew22: Gave 1 [Spruce Trapdoor] to El_Andrew22]
+[03:59:07] [Server thread/INFO]: [El_Andrew22: Gave 1 [Torchflower] to El_Andrew22]
+[03:59:21] [Server thread/INFO]: [El_Andrew22: Gave 1 [Grass Block] to El_Andrew22]
+[03:59:35] [Server thread/INFO]: [El_Andrew22: Gave 1 [Spruce Sign] to El_Andrew22]
+[03:59:35] [Server thread/INFO]: [El_Andrew22: Gave 1 [Spruce Sign] to El_Andrew22]
+[04:00:22] [Server thread/INFO]: [El_Andrew22: Gave 64 [Spruce Slab] to El_Andrew22]
+[04:03:27] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[04:03:27] [Server thread/INFO]: El_Andrew22 left the game
+[04:03:59] [Server thread/INFO]: Stopping the server
+[04:03:59] [Server thread/INFO]: Stopping server
+[04:03:59] [Server thread/INFO]: Saving players
+[04:03:59] [Server thread/INFO]: Saving worlds
+[04:03:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:03:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:03:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[04:03:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:03:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[04:03:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:03:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:03:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04:03:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:03:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[04:03:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:03:59] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
