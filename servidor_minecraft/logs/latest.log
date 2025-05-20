@@ -792,3 +792,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8961.method_5
 [01:54:53] [Server thread/WARN]: Horse (vehicle of Akalixy) moved too quickly! -9.136328090069583,1.0,4.487138335325085
 [01:55:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [01:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[01:55:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01:56:24] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[01:56:56] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[01:56:57] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[01:56:57] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[01:56:57] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[01:57:16] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
