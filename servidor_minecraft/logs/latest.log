@@ -808,3 +808,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8961.method_5
 [02:18:24] [Server thread/INFO]: Reading config values from file.
 [02:18:24] [Server thread/INFO]: Akalixy joined the game
 [02:18:24] [Server thread/INFO]: Sending item configs to client
+[02:32:06] [Server thread/INFO]: El_Andrew22 has completed the challenge [Cover Me in Debris]
+[02:32:59] [Server thread/INFO]: Akalixy has completed the challenge [Cover Me in Debris]
+[02:46:53] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[02:46:53] [Server thread/INFO]: El_Andrew22 left the game
+[02:48:13] [Server thread/INFO]: El_Andrew22[/100.99.232.91:61286] logged in with entity id 24625 at (-427.30000001192093, 68.0, -356.69999998807907)
+[02:48:13] [Server thread/INFO]: Reading config values from file.
+[02:48:13] [Server thread/INFO]: El_Andrew22 joined the game
+[02:48:13] [Server thread/INFO]: Sending item configs to client
+[02:50:15] [Server thread/INFO]: [El_Andrew22: Gave 1 [Runic Greataxe] to El_Andrew22]
+[02:50:55] [Server thread/WARN]: Akalixy was kicked for floating too long!
+[02:50:55] [Server thread/INFO]: Akalixy lost connection: Flying is not enabled on this server
+[02:50:55] [Server thread/INFO]: Akalixy left the game
+[02:50:55] [Server thread/WARN]: handleDisconnection() called twice
+[02:51:08] [Server thread/INFO]: Akalixy[/100.120.240.91:54014] logged in with entity id 25645 at (-572.5080465361654, 111.49532322575244, -734.2946142998351)
+[02:51:08] [Server thread/INFO]: Reading config values from file.
+[02:51:08] [Server thread/INFO]: Akalixy joined the game
+[02:51:08] [Server thread/INFO]: Sending item configs to client
+[02:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[02:52:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12153ms or 243 ticks behind
+[02:52:46] [Server thread/WARN]: Akalixy moved too quickly! -5.269635747322013,5.0,6.934447299851286
+[02:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[02:54:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3666ms or 73 ticks behind
+[02:54:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
