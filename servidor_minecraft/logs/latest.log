@@ -774,3 +774,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8961.method_5
 [01:34:15] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/6566, l='ServerLevel[world]', x=-805.70, y=255.01, z=-3202.70] died: Dinnerbone was shot by El_Andrew22
 [01:34:24] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/6572, l='ServerLevel[world]', x=-802.62, y=255.01, z=-3202.23] died: Dinnerbone was burned to a crisp while fighting El_Andrew22
 [01:42:11] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[01:46:17] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[01:46:17] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[01:46:17] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[01:46:17] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[01:46:19] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[01:53:38] [Server thread/WARN]: Horse (vehicle of Akalixy) moved wrongly! 0.6235825528319197
+[01:54:33] [Server thread/WARN]: Horse (vehicle of Akalixy) moved wrongly! 0.3981552535416313
+[01:54:33] [Server thread/WARN]: Horse (vehicle of Akalixy) moved wrongly! 0.8684529173427791
+[01:54:33] [Server thread/WARN]: Horse (vehicle of Akalixy) moved wrongly! 0.34062775548488844
+[01:54:42] [Server thread/WARN]: Horse (vehicle of Akalixy) moved wrongly! 0.42909534005912064
+[01:54:42] [Server thread/WARN]: Horse (vehicle of Akalixy) moved wrongly! 0.824288753753649
+[01:54:42] [Server thread/WARN]: Horse (vehicle of Akalixy) moved wrongly! 1.0
+[01:54:42] [Server thread/WARN]: Horse (vehicle of Akalixy) moved wrongly! 0.25927872209877023
+[01:54:42] [Server thread/WARN]: Horse (vehicle of Akalixy) moved wrongly! 0.7900981032181562
+[01:54:42] [Server thread/WARN]: Horse (vehicle of Akalixy) moved wrongly! 0.3237636347616899
+[01:54:53] [Server thread/WARN]: Horse (vehicle of Akalixy) moved too quickly! -9.136328090069583,1.0,4.487138335325085
+[01:55:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
