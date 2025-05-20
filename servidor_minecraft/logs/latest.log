@@ -873,3 +873,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8961.method_5
 [03:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6209ms or 124 ticks behind
 [03:06:50] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
 [03:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3441ms or 68 ticks behind
+[03:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8333ms or 166 ticks behind
+[03:07:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[03:07:45] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[03:07:50] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[03:07:50] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03:07:50] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03:07:50] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[03:08:36] [Server thread/INFO]: minecraft:skeleton
+[03:08:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[03:11:03] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-439, y=77, z=-352}) doesn't have enough leaves around top most log
+[03:11:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[03:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3773ms or 75 ticks behind
+[03:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2578ms or 51 ticks behind
+[03:14:22] [Server thread/WARN]: Akalixy moved too quickly! 2.957646012282339,0.0,9.71357169873545
+[03:14:26] [Server thread/WARN]: Akalixy was kicked for floating too long!
+[03:14:26] [Server thread/INFO]: Akalixy lost connection: Flying is not enabled on this server
+[03:14:26] [Server thread/INFO]: Akalixy left the game
+[03:14:54] [Server thread/INFO]: Akalixy[/100.120.240.91:54114] logged in with entity id 39707 at (-1103.2909063121344, 105.0858400087452, -688.6325984952332)
+[03:14:54] [Server thread/INFO]: Reading config values from file.
+[03:14:54] [Server thread/INFO]: Akalixy joined the game
+[03:14:54] [Server thread/INFO]: Sending item configs to client
+[03:15:27] [Server thread/INFO]: minecraft:glow_squid
+[03:15:47] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:17:03] [Server thread/INFO]: [Not Secure] <Akalixy> r
