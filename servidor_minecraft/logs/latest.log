@@ -898,3 +898,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8961.method_5
 [03:15:27] [Server thread/INFO]: minecraft:glow_squid
 [03:15:47] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
 [03:17:03] [Server thread/INFO]: [Not Secure] <Akalixy> r
+[03:27:31] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[03:27:31] [Server thread/INFO]: El_Andrew22 left the game
+[03:27:52] [Server thread/INFO]: Stopping the server
+[03:27:52] [Server thread/INFO]: Stopping server
+[03:27:52] [Server thread/INFO]: Saving players
+[03:27:52] [Server thread/INFO]: Saving worlds
+[03:27:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:27:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:27:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[03:27:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:27:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[03:27:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:27:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:27:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[03:27:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:27:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[03:27:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:27:52] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
