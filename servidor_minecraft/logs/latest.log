@@ -800,3 +800,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_8961.method_5
 [01:56:57] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [01:57:16] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
 [02:14:27] [Server thread/INFO]: [El_Andrew22: Gave 1 [Stripped Spruce End Table] to El_Andrew22]
+[02:16:39] [Server thread/INFO]: [El_Andrew22: Gave 1 [Barrel] to El_Andrew22]
+[02:16:39] [Server thread/INFO]: [El_Andrew22: Gave 1 [Barrel] to El_Andrew22]
+[02:17:45] [Server thread/INFO]: Akalixy lost connection: Disconnected
+[02:17:45] [Server thread/INFO]: Akalixy left the game
+[02:18:24] [Server thread/INFO]: Akalixy[/100.120.240.91:53800] logged in with entity id 18586 at (-429.18673760837964, 68.0625, -351.7193566466771)
+[02:18:24] [Server thread/INFO]: Reading config values from file.
+[02:18:24] [Server thread/INFO]: Akalixy joined the game
+[02:18:24] [Server thread/INFO]: Sending item configs to client
