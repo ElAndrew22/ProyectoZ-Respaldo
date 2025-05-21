@@ -7653,6 +7653,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-05-21 02:59:22 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:recipes/combat/warden_leggings_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-05-21 02:45:45 +0000"
@@ -7674,6 +7680,12 @@
   "deeperdarker:recipes/combat/warden_chestplate_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2025-05-21 02:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-05-21 02:59:22 +0000"
     },
     "done": true
   },
