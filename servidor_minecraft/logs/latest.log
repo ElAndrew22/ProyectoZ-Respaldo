@@ -716,3 +716,44 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [01:49:43] [Server thread/INFO]: El_Andrew22 has completed the challenge [Phantom Thief]
 [01:49:43] [Server thread/INFO]: El_Andrew22 has completed the challenge [It Spreads]
 [01:50:16] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:02:06] [Server thread/INFO]: minecraft:glow_squid
+[02:03:15] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:07:18] [Server thread/INFO]: [El_Andrew22: Applied effect Night Vision to Akalixy]
+[02:07:24] [Server thread/INFO]: [El_Andrew22: Applied effect Night Vision to El_Andrew22]
+[02:08:54] [Server thread/INFO]: minecraft:skeleton
+[02:11:10] [Server thread/INFO]: El_Andrew22 has reached the goal [You Need a Mint]
+[02:12:07] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:12:12] [Server thread/INFO]: El_Andrew22 was slain by Warden
+[02:12:14] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:12:14] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:12:14] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:12:21] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[02:12:25] [Server thread/INFO]: El_Andrew22 teleported to -581.5 -54.0 -9.5 minecraft:overworld
+[02:12:35] [Server thread/INFO]: El_Andrew22 was slain by Akalixy
+[02:12:38] [Server thread/INFO]: Akalixy has completed the challenge [Phantom Thief]
+[02:12:38] [Server thread/INFO]: Akalixy has completed the challenge [It Spreads]
+[02:12:43] [Server thread/INFO]: El_Andrew22 teleported to -581.5 -54.0 -9.5 minecraft:overworld
+[02:14:30] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[02:14:33] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:19:10] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[02:19:34] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:20:06] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[02:20:06] [Server thread/INFO]: El_Andrew22 left the game
+[02:20:16] [Server thread/INFO]: El_Andrew22[/100.99.232.91:63458] logged in with entity id 20516 at (-424.80050035386154, 60.0, -349.59431585491353)
+[02:20:16] [Server thread/INFO]: Reading config values from file.
+[02:20:16] [Server thread/INFO]: El_Andrew22 joined the game
+[02:20:17] [Server thread/INFO]: Sending item configs to client
+[02:21:47] [Server thread/INFO]: [El_Andrew22: Gave 64 [White Wool] to El_Andrew22]
+[02:21:50] [Server thread/INFO]: [El_Andrew22: Gave 64 [White Wool] to El_Andrew22]
+[02:21:52] [Server thread/INFO]: [El_Andrew22: Gave 64 [White Wool] to El_Andrew22]
+[02:30:47] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[02:30:47] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:30:47] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:30:47] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:31:13] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:40:42] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[02:40:42] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:40:42] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:40:42] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:41:27] [Server thread/INFO]: [El_Andrew22: Gave 1 [Phantom Spawn Egg] to El_Andrew22]
+[02:42:39] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
