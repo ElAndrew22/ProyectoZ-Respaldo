@@ -5473,6 +5473,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-05-21 03:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
       "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": "2025-05-21 03:02:20 +0000"
@@ -5538,6 +5544,13 @@
       "warden_armor": "2025-05-21 02:49:40 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "deeplands": "2025-05-21 03:18:46 +0000",
+      "blooming_caverns": "2025-05-21 03:19:25 +0000"
+    },
+    "done": false
   },
   "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
     "criteria": {

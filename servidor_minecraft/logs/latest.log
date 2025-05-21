@@ -778,3 +778,13 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [03:03:56] [Server thread/INFO]: [El_Andrew22: Applied effect Night Vision to El_Andrew22]
 [03:05:07] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
 [03:05:36] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[03:16:21] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[03:16:21] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03:16:21] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03:16:21] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[03:16:41] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[03:18:40] [Worker-Main-7/WARN]: Empty height range: [0 above bottom--8 absolute]
+[03:18:44] [Server thread/INFO]: El_Andrew22 has reached the goal [Below the Bedrock]
+[03:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6212ms or 124 ticks behind
+[03:18:46] [Server thread/INFO]: Akalixy has reached the goal [Below the Bedrock]
+[03:22:04] [Server thread/INFO]: deeperdarker:sculk_centipede
