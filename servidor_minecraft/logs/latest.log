@@ -757,3 +757,16 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:40:42] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [02:41:27] [Server thread/INFO]: [El_Andrew22: Gave 1 [Phantom Spawn Egg] to El_Andrew22]
 [02:42:39] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:42:56] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[02:43:00] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:45:45] [Server thread/INFO]: El_Andrew22 has made the advancement [Sculk Engineer]
+[02:46:47] [Server thread/INFO]: El_Andrew22 has completed the challenge [Cover Me with Sculk]
+[02:46:52] [Server thread/INFO]: Akalixy lost connection: Timed out
+[02:46:52] [Server thread/INFO]: Akalixy left the game
+[02:46:52] [Server thread/WARN]: handleDisconnection() called twice
+[02:47:06] [Server thread/INFO]: Akalixy[/100.120.240.91:56520] logged in with entity id 29446 at (-429.1090432752257, 68.0, -356.69999998807907)
+[02:47:06] [Server thread/INFO]: Reading config values from file.
+[02:47:06] [Server thread/INFO]: Akalixy joined the game
+[02:47:06] [Server thread/INFO]: Sending item configs to client
+[02:48:51] [Server thread/INFO]: Akalixy has made the advancement [Sculk Engineer]
+[02:49:40] [Server thread/INFO]: Akalixy has completed the challenge [Cover Me with Sculk]

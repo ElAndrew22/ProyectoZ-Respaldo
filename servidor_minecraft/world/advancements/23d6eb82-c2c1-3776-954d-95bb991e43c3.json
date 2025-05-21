@@ -5407,9 +5407,9 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+  "deeperdarker:main/find_ancient_city": {
     "criteria": {
-      "has_warden_upgrade_smithing_template": "2025-05-21 01:59:46 +0000"
+      "ancient_city": "2025-05-21 01:43:23 +0000"
     },
     "done": true
   },
@@ -5419,39 +5419,15 @@
     },
     "done": true
   },
-  "deeperdarker:recipes/misc/reinforced_echo_shard": {
-    "criteria": {
-      "has_echo_shard": "2025-05-21 01:58:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-05-21 02:32:09 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2025-05-21 01:43:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-05-21 02:12:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/silence_armor_trim_smithing_template": {
     "criteria": {
       "has_silence_armor_trim_smithing_template": "2025-05-21 01:46:03 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/kill_warden": {
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
-      "warden": "2025-05-21 02:12:38 +0000"
+      "has_echo_shard": "2025-05-21 01:58:27 +0000"
     },
     "done": true
   },
@@ -5461,9 +5437,27 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-05-21 01:59:46 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2025-05-21 02:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-21 02:12:38 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-05-21 02:12:38 +0000"
     },
     "done": true
   },
@@ -5472,6 +5466,78 @@
       "warden": "2025-05-21 02:12:38 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-21 02:32:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_leggings_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-05-21 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_sword_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-05-21 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_chestplate_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-05-21 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_shovel_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-05-21 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/obtain_reinforced_echo_shard": {
+    "criteria": {
+      "reinforced_echo_shard": "2025-05-21 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_hoe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-05-21 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_boots_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-05-21 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/warden_helmet_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-05-21 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/warden_armor": {
+    "criteria": {
+      "warden_armor": "2025-05-21 02:49:40 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_pickaxe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-05-21 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/tools/warden_axe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2025-05-21 02:48:51 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
