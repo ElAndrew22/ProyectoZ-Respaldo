@@ -8039,15 +8039,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-05-22 02:47:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion": {
+    "criteria": {
+      "has_blue_cushion": "2025-05-22 02:47:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-22 01:58:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-05-22 02:47:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-22 01:54:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet": {
+    "criteria": {
+      "has_blue_sheet": "2025-05-22 02:47:53 +0000"
     },
     "done": true
   },
@@ -8072,6 +8096,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-22 01:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-05-22 02:47:53 +0000"
     },
     "done": true
   },
