@@ -8015,6 +8015,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-05-22 02:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 02:13:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-22 01:54:52 +0000"
@@ -8072,6 +8084,18 @@
   "deeperdarker:recipes/misc/soundproof_glass": {
     "criteria": {
       "has_soul_crystal": "2025-05-22 01:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 02:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-22 02:13:44 +0000"
     },
     "done": true
   },
