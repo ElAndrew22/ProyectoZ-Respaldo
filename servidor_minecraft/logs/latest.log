@@ -727,3 +727,13 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:18:34] [Server thread/INFO]: Akalixy has reached the goal [You Need a Mint]
 [02:19:13] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
 [02:25:25] [Server thread/INFO]: minecraft:warden
+[02:38:44] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:40:02] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[02:40:02] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:40:02] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:40:02] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:43:12] [Server thread/INFO]: [El_Andrew22: Gave 64 [Block of Iron] to El_Andrew22]
+[02:43:14] [Server thread/INFO]: [El_Andrew22: Gave 1 [Horn Coral Block] to El_Andrew22]
+[02:43:15] [Server thread/INFO]: [El_Andrew22: Gave 1 [Horn Coral Block] to El_Andrew22]
+[02:44:23] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:45:08] [Server thread/INFO]: minecraft:glow_squid
