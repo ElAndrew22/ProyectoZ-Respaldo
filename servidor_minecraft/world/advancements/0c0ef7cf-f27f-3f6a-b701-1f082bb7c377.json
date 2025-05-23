@@ -8141,5 +8141,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-23 02:01:01 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:music_discs/obtain_all_music_discs": {
+    "criteria": {
+      "obtain_music_disc_knowing_renren": "2025-05-23 01:57:52 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-23 02:01:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
