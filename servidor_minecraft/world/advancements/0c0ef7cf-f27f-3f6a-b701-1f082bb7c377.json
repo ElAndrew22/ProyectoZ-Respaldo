@@ -153,6 +153,7 @@
       "minecraft:dripstone_caves": "2025-05-08 01:13:56 +0000",
       "minecraft:snowy_taiga": "2025-05-15 01:29:37 +0000",
       "minecraft:frozen_peaks": "2025-05-05 00:38:29 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-23 02:14:57 +0000",
       "minecraft:deep_dark": "2025-05-04 04:28:51 +0000",
       "minecraft:swamp": "2025-05-05 00:35:15 +0000",
       "minecraft:meadow": "2025-05-03 06:29:03 +0000",
@@ -8138,6 +8139,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2025-05-22 02:47:53 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/summon_copper_golem": {
+    "criteria": {
+      "summoned_golem": "2025-05-23 02:12:56 +0000"
     },
     "done": true
   },

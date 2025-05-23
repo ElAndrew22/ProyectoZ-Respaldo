@@ -5761,5 +5761,17 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-05-23 02:09:27 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/summon_copper_golem": {
+    "criteria": {
+      "summoned_golem": "2025-05-23 02:12:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
