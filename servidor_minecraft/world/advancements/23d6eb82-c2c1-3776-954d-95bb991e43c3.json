@@ -6017,6 +6017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-25 03:34:56 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_throne_pillar": {
     "criteria": {
       "in_throne_pillar": "2025-05-25 02:25:02 +0000"

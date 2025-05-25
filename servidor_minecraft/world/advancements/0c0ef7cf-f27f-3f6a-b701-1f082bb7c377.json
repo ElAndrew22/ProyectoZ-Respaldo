@@ -2619,6 +2619,7 @@
       "minecraft:spider": "2025-05-04 04:07:09 +0000",
       "minecraft:piglin_brute": "2025-05-08 03:34:50 +0000",
       "minecraft:creeper": "2025-05-04 03:33:09 +0000",
+      "minecraft:wither": "2025-05-25 03:34:18 +0000",
       "minecraft:phantom": "2025-05-21 02:34:43 +0000",
       "minecraft:zombified_piglin": "2025-05-08 00:18:24 +0000",
       "minecraft:wither_skeleton": "2025-05-05 01:52:40 +0000",
@@ -8384,6 +8385,12 @@
   "the_bumblezone:the_queens_desire/the_beginning": {
     "criteria": {
       "bee_queen_first_trade": "2025-05-25 03:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-25 03:34:52 +0000"
     },
     "done": true
   },
