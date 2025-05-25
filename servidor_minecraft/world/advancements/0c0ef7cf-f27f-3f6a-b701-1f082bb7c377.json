@@ -8372,5 +8372,11 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
+    "criteria": {
+      "obtain_honey_crystal_block": "2025-05-25 02:23:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

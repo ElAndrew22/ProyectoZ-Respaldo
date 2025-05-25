@@ -682,3 +682,36 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:14:35] [Server thread/INFO]: Akalixy joined the game
 [02:14:36] [Server thread/INFO]: Sending item configs to client
 [02:15:29] [Server thread/INFO]: [Not Secure] <El_Andrew22> no nomas
+[02:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:21:11] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:entity_dim_component
+[02:21:11] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:original_flying_speed
+[02:21:11] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:living_entity_data
+[02:21:11] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:entity_dim_component
+[02:21:11] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:original_flying_speed
+[02:21:11] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:living_entity_data
+[02:21:12] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:entity_dim_component
+[02:21:12] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:original_flying_speed
+[02:21:12] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:living_entity_data
+[02:21:12] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:entity_dim_component
+[02:21:12] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:original_flying_speed
+[02:21:12] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:living_entity_data
+[02:21:12] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:entity_dim_component (last warning for this component)
+[02:21:12] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:original_flying_speed (last warning for this component)
+[02:21:12] [Worker-Main-2/WARN]: Failed to deserialize component: unregistered key the_bumblezone:living_entity_data (last warning for this component)
+[02:22:18] [bumblezone_locator_and_teleportation-1-thread-1/ERROR]: Off thread structure locating crashed. Exception is: 
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1229) ~[?:?]
+	at knot/net.minecraft.class_6832.method_39831(class_6832.java:96) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5138.method_39783(class_5138.java:166) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2794.method_41522(class_2794.java:252) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2794.method_40146(class_2794.java:239) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2794.method_12103(class_2794.java:179) ~[server-intermediary.jar:?]
+	at knot/com.telepathicgrunt.the_bumblezone.utils.ThreadExecutor.doLocateLevel(ThreadExecutor.java:206) ~[the_bumblezone-7.9.0+1.21.1-fabric.jar:?]
+	at knot/com.telepathicgrunt.the_bumblezone.utils.ThreadExecutor.lambda$locate$1(ThreadExecutor.java:143) ~[the_bumblezone-7.9.0+1.21.1-fabric.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:25:02] [Server thread/INFO]: El_Andrew22 has made the advancement [Royal Presence]
+[02:25:02] [Server thread/INFO]: Akalixy has made the advancement [Royal Presence]
