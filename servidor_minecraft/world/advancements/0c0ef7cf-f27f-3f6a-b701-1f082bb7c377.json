@@ -8373,6 +8373,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-05-25 02:48:29 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_throne_pillar": {
     "criteria": {
       "in_throne_pillar": "2025-05-25 02:25:02 +0000"
@@ -8382,6 +8388,12 @@
   "the_bumblezone:honey_crystal/trigger_redstone_honey_web": {
     "criteria": {
       "trigger_redstone_honey_web": "2025-05-25 02:25:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2025-05-25 02:53:00 +0000"
     },
     "done": true
   },
