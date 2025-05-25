@@ -715,3 +715,7 @@ java.util.ConcurrentModificationException: null
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [02:25:02] [Server thread/INFO]: El_Andrew22 has made the advancement [Royal Presence]
 [02:25:02] [Server thread/INFO]: Akalixy has made the advancement [Royal Presence]
+[02:35:43] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:35:47] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:35:53] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:36:00] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]

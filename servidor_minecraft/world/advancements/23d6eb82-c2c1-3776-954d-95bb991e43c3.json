@@ -100,7 +100,8 @@
       "in_cherry_veteran_tree": "2025-05-23 22:53:51 +0000",
       "in_goliath_honey_fountain": "2025-05-04 02:18:08 +0000",
       "in_battle_cubes": "2025-05-23 23:08:20 +0000",
-      "in_mite_fortress": "2025-05-04 02:18:08 +0000"
+      "in_mite_fortress": "2025-05-04 02:18:08 +0000",
+      "in_throne_pillar": "2025-05-25 02:25:02 +0000"
     },
     "done": false
   },
@@ -5992,6 +5993,18 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-05-25 02:18:30 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-05-25 02:25:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/trigger_redstone_honey_web": {
+    "criteria": {
+      "trigger_redstone_honey_web": "2025-05-25 02:26:22 +0000"
     },
     "done": true
   },

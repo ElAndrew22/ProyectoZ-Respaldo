@@ -100,7 +100,8 @@
       "in_cherry_veteran_tree": "2025-05-23 22:56:02 +0000",
       "in_goliath_honey_fountain": "2025-05-03 05:32:10 +0000",
       "in_battle_cubes": "2025-05-23 23:08:23 +0000",
-      "in_mite_fortress": "2025-05-03 05:32:10 +0000"
+      "in_mite_fortress": "2025-05-03 05:32:10 +0000",
+      "in_throne_pillar": "2025-05-25 02:25:02 +0000"
     },
     "done": false
   },
@@ -8369,6 +8370,24 @@
   "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
     "criteria": {
       "obtain_sugar_infused_stone": "2025-05-24 00:42:08 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-05-25 02:25:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/trigger_redstone_honey_web": {
+    "criteria": {
+      "trigger_redstone_honey_web": "2025-05-25 02:25:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/cleanup_honey_web": {
+    "criteria": {
+      "cleanup_honey_web": "2025-05-25 02:27:06 +0000"
     },
     "done": true
   },
