@@ -8300,78 +8300,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-24 00:49:10 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2025-05-24 00:25:30 +0000"
@@ -8384,29 +8312,29 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2025-05-24 00:25:32 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/orange_cushion": {
     "criteria": {
       "has_orange_cushion": "2025-05-24 00:25:30 +0000"
     },
     "done": true
   },
-  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
+  "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
-      "obtain_sugar_infused_stone": "2025-05-24 00:42:08 +0000"
+      "has_orange_wool": "2025-05-24 00:25:30 +0000"
     },
     "done": true
   },
-  "the_bumblezone:decor/obtain_all_string_curtains": {
+  "handcrafted:recipes/misc/orange_sheet": {
     "criteria": {
-      "gray_string_curtain": "2025-05-24 00:32:21 +0000"
+      "has_orange_sheet": "2025-05-24 00:25:30 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-05-24 00:25:32 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
@@ -8432,15 +8360,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_carpet": {
+  "the_bumblezone:decor/obtain_all_string_curtains": {
     "criteria": {
-      "has_orange_wool": "2025-05-24 00:25:30 +0000"
+      "gray_string_curtain": "2025-05-24 00:32:21 +0000"
     },
-    "done": true
+    "done": false
   },
-  "handcrafted:recipes/misc/orange_sheet": {
+  "the_bumblezone:sugar_water/obtain_sugar_infused_stones": {
     "criteria": {
-      "has_orange_sheet": "2025-05-24 00:25:30 +0000"
+      "obtain_sugar_infused_stone": "2025-05-24 00:42:08 +0000"
     },
     "done": true
   },
