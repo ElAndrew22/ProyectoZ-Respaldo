@@ -5809,7 +5809,8 @@
   "the_bumblezone:music_discs/obtain_all_music_discs": {
     "criteria": {
       "obtain_music_disc_la_bee_da_loca": "2025-05-25 03:06:59 +0000",
-      "obtain_music_disc_knowing_renren": "2025-05-23 22:40:50 +0000"
+      "obtain_music_disc_knowing_renren": "2025-05-23 22:40:50 +0000",
+      "obtain_music_disc_honey_bee_rat_faced_boy": "2025-05-25 03:14:32 +0000"
     },
     "done": false
   },

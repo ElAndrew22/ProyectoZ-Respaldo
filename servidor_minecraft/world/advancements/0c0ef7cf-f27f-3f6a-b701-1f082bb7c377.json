@@ -8409,6 +8409,12 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_bucket/obtain_royal_jelly_bucket": {
+    "criteria": {
+      "obtain_royal_jelly_bucket": "2025-05-25 03:14:19 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:honey_crystal/cleanup_honey_web": {
     "criteria": {
       "cleanup_honey_web": "2025-05-25 02:27:06 +0000"
