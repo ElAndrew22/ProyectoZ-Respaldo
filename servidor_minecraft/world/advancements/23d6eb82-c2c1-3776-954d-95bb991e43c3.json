@@ -101,7 +101,8 @@
       "in_goliath_honey_fountain": "2025-05-04 02:18:08 +0000",
       "in_battle_cubes": "2025-05-23 23:08:20 +0000",
       "in_mite_fortress": "2025-05-04 02:18:08 +0000",
-      "in_throne_pillar": "2025-05-25 02:25:02 +0000"
+      "in_throne_pillar": "2025-05-25 02:25:02 +0000",
+      "in_pirate_ship": "2025-05-25 02:58:18 +0000"
     },
     "done": false
   },
@@ -5996,9 +5997,27 @@
     },
     "done": true
   },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-05-25 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-05-25 03:02:00 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_throne_pillar": {
     "criteria": {
       "in_throne_pillar": "2025-05-25 02:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-05-25 02:59:49 +0000"
     },
     "done": true
   },
