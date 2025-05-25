@@ -8152,7 +8152,9 @@
   },
   "the_bumblezone:music_discs/obtain_all_music_discs": {
     "criteria": {
-      "obtain_music_disc_knowing_renren": "2025-05-23 01:57:52 +0000"
+      "obtain_music_disc_la_bee_da_loca": "2025-05-25 03:26:50 +0000",
+      "obtain_music_disc_knowing_renren": "2025-05-23 01:57:52 +0000",
+      "obtain_music_disc_honey_bee_rat_faced_boy": "2025-05-25 03:28:33 +0000"
     },
     "done": false
   },
@@ -8412,6 +8414,12 @@
   "the_bumblezone:honey_bucket/obtain_royal_jelly_bucket": {
     "criteria": {
       "obtain_royal_jelly_bucket": "2025-05-25 03:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-25 03:33:24 +0000"
     },
     "done": true
   },

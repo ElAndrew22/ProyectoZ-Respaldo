@@ -735,3 +735,10 @@ java.util.ConcurrentModificationException: null
 [03:15:37] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
 [03:15:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
 [03:15:41] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:30:21] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:32:52] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:33:14] [Server thread/INFO]: Akalixy has made the advancement [Spooky Scary Skeleton]
+[03:33:24] [Server thread/INFO]: Akalixy has made the advancement [Withering Heights]
+[03:33:24] [Server thread/INFO]: El_Andrew22 has made the advancement [Withering Heights]
+[03:35:35] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[03:35:38] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
