@@ -5993,105 +5993,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
+      "has_raw_iron_block": "2025-05-25 02:18:26 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:50 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-05-25 02:18:30 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
-    "criteria": {
-      "obtain_honey_bucket": "2025-05-25 03:01:54 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/the_beginning": {
-    "criteria": {
-      "bee_queen_first_trade": "2025-05-25 03:06:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-05-25 03:02:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-05-25 03:34:56 +0000"
     },
     "done": true
   },
@@ -6101,9 +6011,9 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+  "the_bumblezone:honey_crystal/trigger_redstone_honey_web": {
     "criteria": {
-      "obtain_honey_crystal_shield": "2025-05-25 03:09:09 +0000"
+      "trigger_redstone_honey_web": "2025-05-25 02:26:22 +0000"
     },
     "done": true
   },
@@ -6113,9 +6023,27 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal/trigger_redstone_honey_web": {
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
     "criteria": {
-      "trigger_redstone_honey_web": "2025-05-25 02:26:22 +0000"
+      "obtain_honey_bucket": "2025-05-25 03:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-05-25 03:02:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2025-05-25 03:06:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-05-25 03:09:09 +0000"
     },
     "done": true
   },
@@ -6125,9 +6053,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_raw_iron_block": "2025-05-25 02:18:26 +0000"
+      "has_wither_skeleton_skull": "2025-05-25 03:33:14 +0000"
     },
     "done": true
   },
@@ -6137,9 +6065,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-05-25 03:33:14 +0000"
+      "has_nether_star": "2025-05-25 03:34:56 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-27 02:28:45 +0000"
+    },
+    "done": false
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-05-27 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-05-27 02:23:36 +0000"
     },
     "done": true
   },

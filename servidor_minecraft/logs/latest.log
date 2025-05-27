@@ -678,3 +678,44 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [01:54:13] [Server thread/INFO]: Sending item configs to client
 [01:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
 [01:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[02:10:11] [Server thread/INFO]: Akalixy[/100.120.240.91:53195] logged in with entity id 3060 at (-440.5, 72.5625, -351.5)
+[02:10:11] [Server thread/INFO]: Reading config values from file.
+[02:10:11] [Server thread/INFO]: Akalixy joined the game
+[02:10:11] [Server thread/INFO]: Sending item configs to client
+[02:15:38] [Server thread/INFO]: El_Andrew22 teleported to -589.0 1.0 -726.0 minecraft:overworld
+[02:15:45] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:18:28] [Server thread/INFO]: minecraft:bat
+[02:19:16] [Server thread/INFO]: minecraft:spider
+[02:20:46] [Server thread/INFO]: minecraft:bat
+[02:22:05] [Server thread/INFO]: minecraft:zombie
+[02:23:08] [Server thread/INFO]: El_Andrew22 has made the advancement [Extreme Weeding]
+[02:25:13] [Server thread/WARN]: Akalixy moved too quickly! -9.993784299393269,0.0,-0.8948812471443262
+[02:25:24] [Server thread/INFO]: [El_Andrew22: Gave 1 [Soul Sand] to El_Andrew22]
+[02:25:24] [Server thread/INFO]: [El_Andrew22: Gave 1 [Soul Sand] to El_Andrew22]
+[02:25:24] [Server thread/INFO]: [El_Andrew22: Gave 1 [Soul Sand] to El_Andrew22]
+[02:25:31] [Server thread/INFO]: [El_Andrew22: Gave 1 [Soul Sand] to El_Andrew22]
+[02:25:38] [Server thread/INFO]: [El_Andrew22: Gave 1 [Wither Skeleton Skull] to El_Andrew22]
+[02:25:38] [Server thread/INFO]: [El_Andrew22: Gave 1 [Wither Skeleton Skull] to El_Andrew22]
+[02:25:39] [Server thread/INFO]: [El_Andrew22: Gave 1 [Wither Skeleton Skull] to El_Andrew22]
+[02:28:19] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[02:28:24] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:28:46] [Server thread/INFO]: Akalixy lost connection: Disconnected
+[02:28:46] [Server thread/INFO]: Akalixy left the game
+[02:29:38] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[02:29:38] [Server thread/INFO]: El_Andrew22 left the game
+[02:29:51] [Server thread/INFO]: Stopping the server
+[02:29:51] [Server thread/INFO]: Stopping server
+[02:29:51] [Server thread/INFO]: Saving players
+[02:29:51] [Server thread/INFO]: Saving worlds
+[02:29:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:29:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02:29:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[02:29:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:29:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:29:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:29:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02:29:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[02:29:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:29:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:29:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:29:51] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
