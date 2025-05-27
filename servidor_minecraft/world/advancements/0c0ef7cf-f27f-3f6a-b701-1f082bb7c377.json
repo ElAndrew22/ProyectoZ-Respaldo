@@ -8376,99 +8376,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-25 03:55:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-05-25 03:51:58 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
-    "criteria": {
-      "obtain_honey_bucket": "2025-05-25 02:48:29 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/the_beginning": {
-    "criteria": {
-      "bee_queen_first_trade": "2025-05-25 03:06:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-05-25 03:34:52 +0000"
+      "obtain_honey_crystal_block": "2025-05-25 02:23:10 +0000"
     },
     "done": true
   },
@@ -8478,21 +8388,45 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
-    "criteria": {
-      "obtain_honey_crystal_shield": "2025-05-25 03:09:35 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:honey_crystal/trigger_redstone_honey_web": {
     "criteria": {
       "trigger_redstone_honey_web": "2025-05-25 02:25:02 +0000"
     },
     "done": true
   },
+  "the_bumblezone:honey_crystal/cleanup_honey_web": {
+    "criteria": {
+      "cleanup_honey_web": "2025-05-25 02:27:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-05-25 02:48:29 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:effects/getting_protection": {
     "criteria": {
       "getting_protection": "2025-05-25 02:53:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2025-05-25 03:06:31 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:decor/obtain_all_banner_patterns": {
+    "criteria": {
+      "banner_pattern_peace": "2025-05-25 03:08:53 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-05-25 03:09:35 +0000"
     },
     "done": true
   },
@@ -8508,21 +8442,15 @@
     },
     "done": true
   },
-  "the_bumblezone:honey_crystal/cleanup_honey_web": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "cleanup_honey_web": "2025-05-25 02:27:06 +0000"
+      "has_nether_star": "2025-05-25 03:34:52 +0000"
     },
     "done": true
   },
-  "the_bumblezone:decor/obtain_all_banner_patterns": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "banner_pattern_peace": "2025-05-25 03:08:53 +0000"
-    },
-    "done": false
-  },
-  "the_bumblezone:honey_crystal/obtain_honey_crystal_block": {
-    "criteria": {
-      "obtain_honey_crystal_block": "2025-05-25 02:23:10 +0000"
+      "beacon": "2025-05-25 03:51:58 +0000"
     },
     "done": true
   },
