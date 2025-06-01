@@ -724,3 +724,5 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [22:01:53] [Server thread/INFO]: [Not Secure] <El_Andrew22> ZZZZZZZZZZZZZZZZZ
 [22:01:55] [Server thread/INFO]: [Not Secure] <El_Andrew22> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 [22:01:58] [Server thread/INFO]: [Not Secure] <El_Andrew22> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[22:06:40] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[22:06:46] [Server thread/INFO]: Search succeeded: 5976 radius, 9048 samples
