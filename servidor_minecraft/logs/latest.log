@@ -705,3 +705,7 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [21:06:22] [Server thread/INFO]: [El_Andrew22: Applied effect Night Vision to El_Andrew22]
 [21:09:56] [Server thread/INFO]: minecraft:sheep
 [21:14:58] [Server thread/INFO]: minecraft:glow_squid
+[21:25:51] [Server thread/INFO]: El_Andrew22 teleported to -413.0 113.0 81.0 minecraft:overworld
+[21:27:21] [Server thread/INFO]: minecraft:glow_squid
+[21:29:44] [Server thread/INFO]: minecraft:glow_squid
+[21:40:43] [Server thread/INFO]: El_Andrew22 teleported to -412.0 113.0 82.0 minecraft:overworld

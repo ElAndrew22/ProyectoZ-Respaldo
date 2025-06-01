@@ -8491,6 +8491,12 @@
     },
     "done": true
   },
+  "the_bumblezone:candles/light_soul_super_candle": {
+    "criteria": {
+      "light_soul_potion_candle": "2025-06-01 21:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/use_lodestone": {
     "criteria": {
       "use_lodestone": "2025-06-01 20:54:24 +0000"
