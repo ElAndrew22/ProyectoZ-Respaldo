@@ -709,3 +709,12 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [21:27:21] [Server thread/INFO]: minecraft:glow_squid
 [21:29:44] [Server thread/INFO]: minecraft:glow_squid
 [21:40:43] [Server thread/INFO]: El_Andrew22 teleported to -412.0 113.0 82.0 minecraft:overworld
+[21:45:27] [Server thread/INFO]: El_Andrew22 teleported to -414.0 113.0 80.0 minecraft:overworld
+[21:49:28] [Server thread/INFO]: [El_Andrew22: Removed every effect from El_Andrew22]
+[21:49:37] [Server thread/INFO]: [El_Andrew22: Set own game mode to Survival Mode]
+[21:49:43] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[21:51:46] [Server thread/INFO]: Akalixy[/100.120.240.91:62990] logged in with entity id 14863 at (-431.13980800453095, 68.0625, -350.6752377097524)
+[21:51:46] [Server thread/INFO]: Reading config values from file.
+[21:51:46] [Server thread/INFO]: Akalixy joined the game
+[21:51:46] [Server thread/INFO]: Sending item configs to client
+[21:51:59] [Server thread/INFO]: El_Andrew22 teleported to -415.0 158.0 24.0 minecraft:overworld
