@@ -1792,11 +1792,13 @@
       "minecraft:skeleton": "2025-05-04 04:10:42 +0000",
       "minecraft:phantom": "2025-05-23 22:27:27 +0000",
       "minecraft:wither_skeleton": "2025-05-08 03:23:26 +0000",
+      "minecraft:ravager": "2025-06-01 22:19:44 +0000",
       "minecraft:husk": "2025-05-05 01:26:50 +0000",
       "minecraft:hoglin": "2025-05-10 02:51:39 +0000",
       "minecraft:cave_spider": "2025-05-05 01:09:58 +0000",
       "minecraft:piglin": "2025-05-09 03:29:58 +0000",
       "minecraft:guardian": "2025-05-14 02:50:59 +0000",
+      "minecraft:vindicator": "2025-06-01 22:17:45 +0000",
       "minecraft:silverfish": "2025-05-08 01:49:58 +0000",
       "minecraft:stray": "2025-05-23 22:32:50 +0000",
       "minecraft:magma_cube": "2025-05-09 03:32:25 +0000",
@@ -6080,6 +6082,12 @@
   "bosses_of_mass_destruction:recipes/earthdive_spear": {
     "criteria": {
       "has_void_thorn": "2025-05-27 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-01 22:19:46 +0000"
     },
     "done": true
   },

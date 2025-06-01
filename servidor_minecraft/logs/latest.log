@@ -726,3 +726,16 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [22:01:58] [Server thread/INFO]: [Not Secure] <El_Andrew22> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
 [22:06:40] [Server thread/INFO]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
 [22:06:46] [Server thread/INFO]: Search succeeded: 5976 radius, 9048 samples
+[22:13:52] [Server thread/INFO]: minecraft:zombie
+[22:17:14] [Server thread/INFO]: minecraft:pillager
+[22:17:53] [Server thread/INFO]: minecraft:pillager
+[22:19:28] [Server thread/INFO]: minecraft:pillager
+[22:19:46] [Server thread/INFO]: Akalixy has completed the challenge [Hero of the Village]
+[22:19:46] [Server thread/INFO]: El_Andrew22 has completed the challenge [Hero of the Village]
+[22:19:47] [Server thread/INFO]: El_Andrew22 lost connection: Disconnected
+[22:19:47] [Server thread/INFO]: El_Andrew22 left the game
+[22:22:36] [Server thread/INFO]: El_Andrew22[/100.99.232.91:49244] logged in with entity id 28231 at (-430.29988504577136, 64.76636799395752, -286.0313712782622)
+[22:22:36] [Server thread/INFO]: Reading config values from file.
+[22:22:37] [Server thread/INFO]: El_Andrew22 joined the game
+[22:22:37] [Server thread/INFO]: Sending item configs to client
+[22:23:08] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]

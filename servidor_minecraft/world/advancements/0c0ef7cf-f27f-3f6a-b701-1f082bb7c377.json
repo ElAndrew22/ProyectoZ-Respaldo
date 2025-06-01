@@ -2611,6 +2611,7 @@
       "minecraft:blaze": "2025-05-09 01:29:48 +0000",
       "minecraft:skeleton": "2025-05-04 04:09:54 +0000",
       "minecraft:elder_guardian": "2025-05-14 02:50:26 +0000",
+      "minecraft:ravager": "2025-06-01 22:18:45 +0000",
       "minecraft:ghast": "2025-05-09 02:49:30 +0000",
       "minecraft:hoglin": "2025-05-08 03:28:44 +0000",
       "minecraft:guardian": "2025-05-14 02:41:46 +0000",
@@ -8491,15 +8492,21 @@
     },
     "done": true
   },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2025-06-01 20:54:24 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:candles/light_soul_super_candle": {
     "criteria": {
       "light_soul_potion_candle": "2025-06-01 21:37:52 +0000"
     },
     "done": true
   },
-  "minecraft:nether/use_lodestone": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "use_lodestone": "2025-06-01 20:54:24 +0000"
+      "hero_of_the_village": "2025-06-01 22:19:46 +0000"
     },
     "done": true
   },
