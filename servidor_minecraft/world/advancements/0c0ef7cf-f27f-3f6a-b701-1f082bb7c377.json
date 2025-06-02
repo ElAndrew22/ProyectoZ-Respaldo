@@ -152,6 +152,7 @@
       "minecraft:beach": "2025-05-05 00:08:28 +0000",
       "minecraft:dark_forest": "2025-05-04 02:38:55 +0000",
       "minecraft:river": "2025-05-03 06:36:21 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-02 00:07:09 +0000",
       "minecraft:stony_shore": "2025-05-04 23:58:09 +0000",
       "minecraft:snowy_plains": "2025-05-04 23:57:46 +0000",
       "minecraft:dripstone_caves": "2025-05-08 01:13:56 +0000",
@@ -2565,6 +2566,7 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
+      "minecraft:spotted": "2025-06-02 00:08:26 +0000",
       "minecraft:chestnut": "2025-05-05 01:20:20 +0000",
       "minecraft:black": "2025-05-04 03:25:21 +0000",
       "minecraft:ashen": "2025-05-23 22:10:47 +0000"

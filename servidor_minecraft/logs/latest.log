@@ -4,3 +4,28 @@
 [00:04:41] [Server thread/INFO]: El_Andrew22 teleported to 4012.0 68.0 -4593.0 minecraft:overworld
 [00:05:09] [Server thread/INFO]: minecraft:cow
 [00:05:54] [Server thread/INFO]: El_Andrew22 teleported to 4072.0 64.0 -4754.0 minecraft:overworld
+[00:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:07:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7380ms or 147 ticks behind
+[00:07:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[00:07:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:08:08] [Server thread/INFO]: El_Andrew22 teleported to 4026.0 69.0 -4366.0 minecraft:overworld
+[00:09:28] [Server thread/INFO]: Akalixy teleported to -424.5 67.0 -331.5 minecraft:overworld
+[00:10:10] [Server thread/INFO]: SearchWorkerManager cacbec37: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[00:10:35] [Server thread/INFO]: SearchWorkerManager cacbec37: RandomSpreadSearchWorker succeeded with 4011 radius, 22 samples
+[00:10:35] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[00:10:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24515ms or 490 ticks behind
+[00:10:44] [Server thread/INFO]: Akalixy teleported to -424.5 67.0 -331.5 minecraft:overworld
+[00:11:07] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[00:11:17] [Server thread/INFO]: Akalixy teleported to -424.5 67.0 -331.5 minecraft:overworld
+[00:11:38] [Server thread/INFO]: SearchWorkerManager cacbec37: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[00:11:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[00:11:47] [Server thread/INFO]: SearchWorkerManager cacbec37: RandomSpreadSearchWorker succeeded with 3570 radius, 136 samples
+[00:12:03] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[00:12:26] [Server thread/INFO]: El_Andrew22 teleported to -437.5 72.0 -349.5 minecraft:overworld
+[00:12:50] [Server thread/INFO]: SearchWorkerManager cacbec37: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[00:13:00] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[00:13:06] [Server thread/INFO]: SearchWorkerManager cacbec37: RandomSpreadSearchWorker succeeded with 7637 radius, 45 samples
+[00:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14769ms or 295 ticks behind
+[00:13:20] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[00:14:53] [Server thread/INFO]: minecraft:salmon
+[00:16:52] [Server thread/INFO]: Akalixy teleported to -424.5 67.0 -331.5 minecraft:overworld
