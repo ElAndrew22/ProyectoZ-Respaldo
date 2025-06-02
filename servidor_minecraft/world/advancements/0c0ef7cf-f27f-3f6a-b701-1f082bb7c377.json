@@ -139,6 +139,7 @@
       "minecraft:lush_caves": "2025-05-04 02:44:37 +0000",
       "minecraft:deep_cold_ocean": "2025-05-14 03:41:26 +0000",
       "minecraft:frozen_ocean": "2025-05-15 00:54:35 +0000",
+      "minecraft:desert": "2025-06-01 23:59:28 +0000",
       "minecraft:frozen_river": "2025-05-15 01:23:40 +0000",
       "minecraft:windswept_forest": "2025-05-12 03:25:32 +0000",
       "minecraft:ocean": "2025-05-06 03:37:07 +0000",
@@ -8511,9 +8512,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-01 23:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-02 00:01:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-06-01 22:57:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_yellow_bowl": "2025-06-01 23:54:33 +0000"
     },
     "done": true
   },
@@ -8529,9 +8548,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-06-01 23:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-01 23:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-02 00:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-02 00:01:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-06-01 23:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-02 00:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-02 00:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-06-01 23:57:13 +0000"
     },
     "done": true
   },
@@ -8541,9 +8602,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/red_cushion": {
+    "criteria": {
+      "has_red_cushion": "2025-06-01 23:57:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-06-01 23:36:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-06-01 23:57:13 +0000"
     },
     "done": true
   },
@@ -8559,6 +8632,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-01 23:53:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_yellow_cup": "2025-06-01 23:54:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-06-01 23:47:56 +0000"
@@ -8571,9 +8656,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-01 23:53:28 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/complete_hide_and_seek_game": {
     "criteria": {
       "friendsandfoes:complete_hide_and_seek_game": "2025-06-01 22:56:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-06-01 23:51:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet": {
+    "criteria": {
+      "has_red_sheet": "2025-06-01 23:57:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-02 00:01:47 +0000"
     },
     "done": true
   },
@@ -8583,15 +8692,57 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2025-06-01 23:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-01 23:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-01 23:54:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_crockery_combo": {
+    "criteria": {
+      "has_yellow_crockery_combo": "2025-06-01 23:54:33 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/orc_skin_recipe": {
     "criteria": {
       "got_the_orc_skin": "2025-06-01 23:32:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-01 23:54:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/onion": {
     "criteria": {
       "has_onion_crate": "2025-06-01 23:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2025-06-01 23:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-06-01 23:57:13 +0000"
     },
     "done": true
   },
