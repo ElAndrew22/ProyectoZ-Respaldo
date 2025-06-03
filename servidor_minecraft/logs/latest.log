@@ -807,3 +807,64 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:50:22] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [02:51:51] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [02:51:57] [Server thread/INFO]: minecraft:skeleton
+[02:52:30] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:52:57] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:53:19] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:54:53] [Server thread/INFO]: minecraft:skeleton
+[02:54:58] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:55:40] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[03:00:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[03:01:04] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[03:02:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[03:02:08] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.class_148: Ticking entity
+	at knot/net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:1025) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3813(class_3176.java:299) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:912) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:697) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IllegalArgumentException: Can't find attribute minecraft:generic.attack_damage
+	at knot/net.minecraft.class_5132.method_26865(class_5132.java:21) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5132.method_26864(class_5132.java:31) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5131.method_26856(class_5131.java:73) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1309.method_45326(class_1309.java:1981) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1308.method_57295(class_1308.java:706) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1308.method_5955(class_1308.java:691) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1308.method_24523(class_1308.java:618) ~[server-intermediary.jar:?]
+	at knot/com.faboslav.friendsandfoes.common.util.TotemUtil.createIllusion(TotemUtil.java:159) ~[friendsandfoes-fabric-4.0.1+mc1.21.1.jar:?]
+	at knot/com.faboslav.friendsandfoes.common.util.TotemUtil.createIllusions(TotemUtil.java:89) ~[friendsandfoes-fabric-4.0.1+mc1.21.1.jar:?]
+	at knot/net.minecraft.class_1657.handler$cbg000$friendsandfoes$tryUseTotems(class_1657.java:14523) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1657.method_5643(class_1657.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3222.method_5643(class_3222.java:811) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1671.method_7475(class_1671.java:242) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1671.method_16830(class_1671.java:181) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1671.method_7454(class_1671.java:191) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1676.method_7488(class_1676.java:208) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1676.method_59860(class_1676.java:182) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1671.method_5773(class_1671.java:159) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3218.method_18762(class_3218.java:770) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1937.method_18472(class_1937.java:498) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3218.method_31420(class_3218.java:408) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3218.method_18765(class_3218.java:372) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:1021) ~[server-intermediary.jar:?]
+	... 5 more
+[03:02:08] [Server thread/ERROR]: This crash report has been saved to: /workspaces/ProyectoZ-Respaldo/servidor_minecraft/crash-reports/crash-2025-06-03_03.02.08-server.txt
+[03:02:08] [Server thread/INFO]: Stopping server
+[03:02:08] [Server thread/INFO]: Saving players
+[03:02:08] [Server thread/INFO]: El_Andrew22 lost connection: Server closed
+[03:02:08] [Server thread/INFO]: El_Andrew22 left the game
+[03:02:08] [Server thread/INFO]: Saving worlds
+[03:02:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:02:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:02:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[03:02:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:02:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[03:02:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:02:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:02:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[03:02:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:02:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[03:02:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:02:09] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
