@@ -148,6 +148,7 @@
       "minecraft:sunflower_plains": "2025-05-05 00:41:09 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-03 06:43:57 +0000",
       "minecraft:snowy_beach": "2025-05-04 23:58:50 +0000",
+      "minecraft:wooded_badlands": "2025-06-04 01:23:52 +0000",
       "minecraft:warm_ocean": "2025-06-03 02:42:36 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-14 02:40:14 +0000",
       "minecraft:beach": "2025-05-05 00:08:28 +0000",
@@ -9305,6 +9306,18 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-06-03 02:11:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-06-04 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-06-04 01:27:07 +0000"
     },
     "done": true
   },

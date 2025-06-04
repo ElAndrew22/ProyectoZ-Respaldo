@@ -779,3 +779,49 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [01:21:11] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
 [01:21:11] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
 [01:21:11] [Worker-Main-2/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[01:21:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[01:22:51] [Server thread/INFO]: SearchWorkerManager 90099c67: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[01:22:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01:22:54] [Server thread/INFO]: SearchWorkerManager 90099c67: RandomSpreadSearchWorker failed with 11422 radius, 32 samples
+[01:23:21] [Server thread/INFO]: SearchWorkerManager 90099c67: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[01:23:22] [Server thread/INFO]: SearchWorkerManager 90099c67: RandomSpreadSearchWorker succeeded with 655 radius, 5 samples
+[01:23:57] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:24:01] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:24:07] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:24:11] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:24:11] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:24:11] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:24:11] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:24:11] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:24:11] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:24:26] [Server thread/INFO]: El_Andrew22 teleported to 5643.0 99.0 -1604.0 minecraft:overworld
+[01:24:30] [Server thread/INFO]: El_Andrew22 has made the advancement [Rusted Root]
+[01:24:38] [Server thread/INFO]: El_Andrew22 teleported to 5693.0 85.0 -1539.0 minecraft:overworld
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:14] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:26:33] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:33] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:26:38] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[01:26:38] [Worker-Main-4/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[01:27:07] [Server thread/INFO]: El_Andrew22 has made the advancement [An Ancient Tomb]
+[01:27:27] [Server thread/INFO]: El_Andrew22 teleported to 5008.0 65.0 -5632.0 minecraft:overworld
+[01:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[01:35:47] [Server thread/INFO]: Akalixy[/100.120.240.91:59038] logged in with entity id 7504 at (4867.378338113376, 143.0, -5552.437655693467)
+[01:35:47] [Server thread/INFO]: Reading config values from file.
+[01:35:47] [Server thread/INFO]: Akalixy joined the game
+[01:35:47] [Server thread/INFO]: Sending item configs to client
+[01:35:57] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[01:40:49] [Server thread/INFO]: minecraft:skeleton
+[01:42:29] [Server thread/INFO]: minecraft:pillager
+[01:49:38] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[01:51:14] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
