@@ -887,3 +887,22 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:38:41] [Server thread/INFO]: minecraft:skeleton
 [02:41:57] [Server thread/INFO]: minecraft:glow_squid
 [02:43:06] [Server thread/INFO]: minecraft:pillager
+[02:45:53] [Server thread/INFO]: [El_Andrew22: Teleported El_Andrew22 to Akalixy]
+[02:46:46] [Server thread/INFO]: [El_Andrew22: Teleported Akalixy to El_Andrew22]
+[02:49:12] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:49:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:49:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:49:32] [Server thread/INFO]: minecraft:pillager
+[02:49:47] [Server thread/INFO]: minecraft:pillager
+[02:49:49] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:50:06] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:50:08] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:50:37] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:50:39] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:51:03] [Server thread/INFO]: minecraft:glow_squid
+[02:51:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:51:10] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:51:25] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:51:47] [Server thread/INFO]: El_Andrew22 has reached the goal [Plant Food]
+[02:52:15] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:53:19] [Server thread/INFO]: El_Andrew22 teleported to 4889.0 148.0 -5626.0 minecraft:overworld
