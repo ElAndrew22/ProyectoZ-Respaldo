@@ -838,3 +838,9 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:00:26] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [02:00:34] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
 [02:00:54] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:08:19] [Server thread/INFO]: [El_Andrew22: Gave 64 [Dirt] to El_Andrew22]
+[02:08:19] [Server thread/INFO]: Villager class_1646['Fisherman'/7575, l='ServerLevel[world]', x=4793.74, y=134.00, z=-5554.51] died, message: 'Fisherman was slain by Zombie'
+[02:08:24] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:09:18] [Server thread/ERROR]: Tried to load invalid item: 'Item must not be minecraft:air'
+[02:09:57] [Server thread/INFO]: minecraft:skeleton
+[02:10:06] [Server thread/WARN]: Akalixy moved too quickly! 0.3119464327219248,0.0625,-10.108986387635923
