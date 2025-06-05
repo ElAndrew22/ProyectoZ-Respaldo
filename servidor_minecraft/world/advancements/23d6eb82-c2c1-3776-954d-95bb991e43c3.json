@@ -150,6 +150,7 @@
       "minecraft:mangrove_swamp": "2025-05-12 03:48:41 +0000",
       "minecraft:sparse_jungle": "2025-05-07 02:22:52 +0000",
       "minecraft:river": "2025-05-04 02:18:35 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-05 02:16:10 +0000",
       "minecraft:snowy_plains": "2025-05-05 00:29:17 +0000",
       "minecraft:stony_shore": "2025-05-14 02:33:30 +0000",
       "minecraft:snowy_taiga": "2025-05-05 00:29:29 +0000",
@@ -6909,6 +6910,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-06-04 02:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-06-05 02:08:08 +0000"
     },
     "done": true
   },
