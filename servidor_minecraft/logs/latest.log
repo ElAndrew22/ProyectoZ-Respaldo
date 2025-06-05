@@ -781,3 +781,7 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [02:39:29] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [02:39:29] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [02:39:29] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:42:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:42:35] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[02:45:59] [Server thread/INFO]: minecraft:zombie
+[02:48:51] [Server thread/INFO]: minecraft:bat
