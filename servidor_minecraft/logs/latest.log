@@ -671,3 +671,12 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [01:41:53] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@7724bb0e for service interface journeymap.api.services.ClientPlatformService
 [01:41:53] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@132eaffc for service interface journeymap.api.services.CommonPlatformService
 [01:41:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01:57:18] [Server thread/INFO]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+[01:57:18] [Server thread/INFO]: El_Andrew22[/100.99.232.91:50598] logged in with entity id 50 at (4790.727229085099, 80.0625, -5590.829655021259)
+[01:57:18] [Server thread/INFO]: Reading config values from file.
+[01:57:18] [Server thread/INFO]: El_Andrew22 joined the game
+[01:57:19] [Server thread/INFO]: Sending item configs to client
+[01:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5261ms or 105 ticks behind
+[01:57:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[01:58:34] [Server thread/INFO]: El_Andrew22 teleported to 4816.0 134.0 -5535.0 minecraft:overworld
+[01:58:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
